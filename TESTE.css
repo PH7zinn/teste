@@ -33,3 +33,16 @@ body,html{
     background:skyblue;
     border-radius:15px;
 }
+.fotos{
+    display: flex;
+    justify-content: center;
+
+}
+#azul{
+    margin-left: 5px;
+    width: 100%;
+}
+#vermelho{
+    margin-right: 30px;
+    width: 55%;
+}
